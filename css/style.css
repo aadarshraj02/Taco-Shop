@@ -250,7 +250,9 @@ tr {
   font-weight: bold;
 }
 .menu__cr,
-.menu__sf {
+.menu__sf,
+.menu__cs,
+.menu__header {
   color: var(--HIGHLIGHT-COLOR);
   font-weight: bold;
   height: 100%;
