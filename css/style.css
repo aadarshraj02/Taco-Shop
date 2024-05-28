@@ -202,3 +202,10 @@ a:active {
   font-weight: bold;
   display: block;
 }
+.contact__input,
+.contact__textarea {
+  padding: 0.5em;
+  border-radius: 15px;
+  border-width: 2px;
+  width: 100%;
+}
