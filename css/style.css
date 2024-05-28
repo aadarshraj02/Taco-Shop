@@ -85,3 +85,7 @@ p {
 a:any-link {
   color: var(--LINK-COLOR);
 }
+a:hover,
+a:focus-visible {
+  color: var(--LINK-HOVER);
+}
