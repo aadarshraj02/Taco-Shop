@@ -241,3 +241,6 @@ tr {
 .menu__cr {
   grid-area: cr;
 }
+.menu__sf {
+  grid-area: sf;
+}
