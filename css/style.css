@@ -195,3 +195,6 @@ a:active {
 .contact__fieldset {
   border: none;
 }
+.contact__p {
+  margin: 1em 0;
+}
