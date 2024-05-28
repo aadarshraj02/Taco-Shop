@@ -164,5 +164,7 @@ a:active {
   color: var(--HEADER-COLOR);
   padding: var(--PADDING-TB) var(--PADDING-SIDE);
   text-align: center;
-  
+}
+.main {
+  padding: var(--PADDING-TB) var(--PADDING-SIDE);
 }
