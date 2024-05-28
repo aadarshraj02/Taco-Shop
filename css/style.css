@@ -46,4 +46,5 @@ nowrap {
 
 html {
   scroll-behavior: smooth;
+  font-size: var(--FS);
 }
