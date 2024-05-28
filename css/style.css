@@ -198,3 +198,7 @@ a:active {
 .contact__p {
   margin: 1em 0;
 }
+.contact__label {
+  font-weight: bold;
+  display: block;
+}
