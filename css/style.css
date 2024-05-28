@@ -249,3 +249,11 @@ tr {
   color: var(--HIGHLIGHT-COLOR);
   font-weight: bold;
 }
+.menu__cr,
+.menu__sf {
+  color: var(--HIGHLIGHT-COLOR);
+  font-weight: bold;
+  height: 100%;
+  display: grid;
+  place-content: center;
+}
