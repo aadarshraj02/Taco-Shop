@@ -41,6 +41,8 @@ textarea {
   --PADDING-TB: 0.25em;
   --PADDING-SIDE: 2.5%;
   --MARGIN: clamp(1em, 2.5vh, 1.5em) 0;
+  --HERO-BGCOLOR: rgba(51, 178, 51, 0.75);
+  --HERO-COLOR: #fff;
 }
 
 /* Utility Classes */
