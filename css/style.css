@@ -244,3 +244,8 @@ tr {
 .menu__sf {
   grid-area: sf;
 }
+.menu__cs {
+  grid-area: cs;
+  color: var(--HIGHLIGHT-COLOR);
+  font-weight: bold;
+}
