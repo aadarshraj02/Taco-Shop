@@ -209,3 +209,9 @@ a:active {
   border-width: 2px;
   width: 100%;
 }
+.contact__button {
+  padding: 0.5em;
+  border-radius: 15px;
+  background-color: var(--HIGHLIGHT-COLOR);
+  color: var(--HEADER-COLOR);
+}
