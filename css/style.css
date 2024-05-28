@@ -30,7 +30,7 @@ textarea {
   --BODY-BGCOLOR: #fff;
   --FONT-COLOR: #000;
   --BORDER-COLOR: #333;
-  --BORDERS: 1px solid (var(--BORDER-COLOR));
+  --BORDERS: 1px solid var(--BORDER-COLOR);
   --HIGHLIGHT-COLOR: rgb(51, 178, 51);
   --LINK-ACTIVE: orange;
   --LINK-COLOR: #000;
@@ -111,4 +111,8 @@ a:active {
   background-color: var(--HEADER-BGCOLOR);
   color: var(--HEADER-COLOR);
   padding: var(--PADDING-TB) var(--PADDING-SIDE);
+}
+.header__nav {
+  background-color: var(---NAV-BGCOLOR);
+  border: var(--BORDERS);
 }
