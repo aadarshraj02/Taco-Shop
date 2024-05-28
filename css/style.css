@@ -192,3 +192,6 @@ a:active {
 .contact__h2 {
   margin: 0;
 }
+.contact__fieldset {
+  border: none;
+}
