@@ -268,3 +268,8 @@ tr {
   padding: 1em;
   border: medium ridge var(--BORDER-COLOR);
 }
+.menu__item{
+  display: grid;
+  place-content: center;
+  
+}
