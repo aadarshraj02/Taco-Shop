@@ -130,3 +130,7 @@ a:active {
 .hero {
   position: relative;
 }
+.hero__h2 {
+  background-color: var(--HERO-BGCOLOR);
+  color: var(--HERO-COLOR);
+}
