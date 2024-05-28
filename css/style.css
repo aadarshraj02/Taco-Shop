@@ -125,3 +125,6 @@ a:active {
   justify-content: space-evenly;
   gap: 1rem;
 }
+.hero {
+  position: relative;
+}
