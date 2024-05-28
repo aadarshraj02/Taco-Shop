@@ -31,6 +31,7 @@ textarea {
   --FONT-COLOR: #000;
   --BORDER-COLOR: #333;
   --BORDERS: 1px solid (var(--BORDER-COLOR));
+  --HIGHLIGHT-COLOR: rgb(51, 178, 51);
 }
 
 /* Utility Classes */
