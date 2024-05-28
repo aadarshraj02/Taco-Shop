@@ -42,3 +42,8 @@ nowrap {
 .center {
   text-align: center;
 }
+/* General Styling */
+
+html {
+  scroll-behavior: smooth;
+}
