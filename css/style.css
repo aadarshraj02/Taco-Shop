@@ -92,3 +92,11 @@ a:focus-visible {
 a:active {
   color: var(--LINK-ACTIVE);
 }
+
+/* Header section */
+
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
