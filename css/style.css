@@ -238,3 +238,6 @@ tr {
   gap: 0.1em;
   margin-bottom: 1em;
 }
+.menu__cr {
+  grid-area: cr;
+}
