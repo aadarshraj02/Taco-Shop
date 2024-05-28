@@ -178,3 +178,9 @@ a:active {
 .main__article:last-child {
   min-height: calc(100vh-20rem);
 }
+
+/* About Section */
+
+.about__trivia {
+  margin: var(--MARGIN);
+}
