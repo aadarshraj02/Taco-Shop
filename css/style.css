@@ -63,3 +63,10 @@ body {
   border-right: var(--BORDERS);
   box-shadow: 0 0 10px var(--BORDER-COLOR);
 }
+
+h1,
+h2,
+h3 {
+  font-family: var(--FF-Headings);
+  letter-spacing: 0.1rem;
+}
