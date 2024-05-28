@@ -283,3 +283,19 @@ tfoot td {
   border-bottom-left-radius: 15px;
   border-bottom-right-radius: 15px;
 }
+@media screen and (min-width: 576px) {
+  .header__h1::before {
+    content: "🌮 ";
+  }
+
+  .header__h1::after {
+    content: " 🌮";
+  }
+
+  .menu__header,
+  .menu__cr,
+  .menu__sf,
+  .menu__cs {
+    font-size: 125%;
+  }
+}
