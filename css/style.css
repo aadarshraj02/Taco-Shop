@@ -30,3 +30,9 @@ textarea {
   --BODY-BGCOLOR: #fff;
   --FONT-COLOR: #000;
 }
+
+/* Utility Classes */
+offscreen {
+  position: absolute;
+  left: -10000px;
+}
