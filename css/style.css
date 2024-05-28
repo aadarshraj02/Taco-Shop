@@ -259,3 +259,6 @@ tr {
   display: grid;
   place-content: center;
 }
+.menu__header {
+  border-bottom: var(--BORDERS);
+}
