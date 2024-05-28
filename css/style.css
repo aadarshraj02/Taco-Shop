@@ -108,4 +108,7 @@ a:active {
 }
 .header__h1 {
   text-align: center;
+  background-color: var(--HEADER-BGCOLOR);
+  color: var(--HEADER-COLOR);
+  padding: var(--PADDING-TB) var(--PADDING-SIDE);
 }
