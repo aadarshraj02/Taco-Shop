@@ -100,3 +100,6 @@ a:active {
   top: 0;
   z-index: 1;
 }
+.header__h1 {
+  text-align: center;
+}
